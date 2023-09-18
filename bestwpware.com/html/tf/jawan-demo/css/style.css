@@ -48,6 +48,8 @@ h6 {
 	margin: 0;
 	position: relative;
 	font-weight: normal;
+	color: white;
+	text-align: center;
 }
 
 .content__subtitle {
@@ -55,7 +57,7 @@ h6 {
 	padding: 1rem 0;
 	letter-spacing: 2px;
 	text-indent: 2px;
-	color:#fff;
+	color: whitesmoke;
 	text-align:center;
 }
 
@@ -90,7 +92,7 @@ h6 {
 }
 
 #content-1 {
-	background-image: url(../img/bg.jpg);
+	background-image: url(../img/IMG_3115.JPG);
 }
 
 #content-2 {
@@ -360,7 +362,7 @@ border:2px solid #2eca7f;
 	padding-left: 0;
 	margin-bottom: 0;
 }
-.top_social_profile ul li{display: inline-block;margin: 0 2px;}
+.top_social_profile ul li{display: inline-block;margin: 0 0px;}
 .top_social_profile ul li a img{}
 
 /*
