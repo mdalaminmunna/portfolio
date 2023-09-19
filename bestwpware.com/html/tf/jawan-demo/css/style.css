@@ -101,15 +101,15 @@ h6 {
 }
 
 #content-3 {
-	background:#016A70;
+	background:#7579E7;
 }
 
 #content-4 {
-	background: #DF9E98;
+	background: #9AB3F5;
 }
 
 #content-5 {
-	background:#9ED4D4;
+	background:#B9FFFC;
 }
 
 #content-6 {
@@ -219,17 +219,17 @@ h6 {
 		background: currentColor;
 	}
 
-	.grim__item-bg--1 { color: #f1d3b9; }
-	.grim__item-bg--2 { color: #df9e98; }
+	.grim__item-bg--1 { color: #FDEBED; }
+	.grim__item-bg--2 { color: #FFCEFE; }
 	.grim__item-bg--3 { color: #fcfdff; }
-	.grim__item-bg--4 { color: #9ed4d4; }
+	.grim__item-bg--4 { color: #D9ACF5; }
 	.grim__item-bg--5 { color: #000; }
 
-	.grim__item-bg--6 { color: #7296de; }
-	.grim__item-bg--7 { color: #7c95b5; }
-	.grim__item-bg--8 { color: #86bfbf; }
-	.grim__item-bg--9 { color: #af9b9b; }
-	.grim__item-bg--10 { color: #c57d76; }
+	.grim__item-bg--6 { color: #38B8FF; }
+	.grim__item-bg--7 { color: #5AE3F8; }
+	.grim__item-bg--8 { color: #5BBAEB; }
+	.grim__item-bg--9 { color: #6188EF; }
+	.grim__item-bg--10 { color: #4F55E0; }
 
 	.grim__item-img {
 		position: absolute;
@@ -242,11 +242,11 @@ h6 {
 		background-color: currentColor;
 	}
 
-	.grim__item-img--1 { color: #fcfdff; }
-	.grim__item-img--2 { color: #a9bdd6; }
-	.grim__item-img--3 { color: #9ed4d4; }
-	.grim__item-img--4 { color: #d0bebe; }
-	.grim__item-img--5 { color: #df9e98; }
+	.grim__item-img--1 { color: #AEE2FF; }
+	.grim__item-img--2 { color: #B9F3FC; }
+	.grim__item-img--3 { color: #A3D8F4; }
+	.grim__item-img--4 { color: #9AB3F5; }
+	.grim__item-img--5 { color: #7579E7; }
 
 	.grim__item-content {
 		position: relative;
@@ -315,7 +315,7 @@ h6 {
   margin: 0 0 5px 0;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: #fff;
+  color: black;
 }
 .section-title h2 {
 	margin-top: 10px;
